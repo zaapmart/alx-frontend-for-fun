@@ -60,4 +60,4 @@ Read or watch:
 ---
 
 ## Author
-* **Kufre Akpan** - [Kufre(https://github.com/zaapma) - (https://twitter.com/Kufre_Akpan)
+* **Kufre Akpan** - (Kufre(https://github.com/zaapmart)) - (https://twitter.com/Kufre_Akpan)
